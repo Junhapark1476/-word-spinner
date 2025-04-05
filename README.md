@@ -1,7 +1,7 @@
 # Word Spinner Project
 
 # Description
-This program reads text from an input file (`essay.txt`) and replaces certain words with their synonyms from a synonym dictionary file (`synonyms-simplified.txt` or `test-synonyms.txt`). It prints the original text and three modified versions to `results.txt`.
+This program reads text from an input file (`essay.txt`) and replaces certain words with their synonyms from a synonym dictionary file (`test-synonyms.txt`). It prints the original text and three modified versions to `results.txt`.
 
 The goal is to demonstrate simple natural language processing with random synonym substitution.
 
