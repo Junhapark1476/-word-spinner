@@ -1,6 +1,6 @@
 # Assignment: A4 Word Spinner
 # Names: junha Park
-# github: https://github.com/Junhapark1476/-
+# github: https://github.com/Junhapark1476/-word-spinner
 
 import string
 from Spinner import Spinner
