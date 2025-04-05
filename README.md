@@ -10,7 +10,6 @@ The goal is to demonstrate simple natural language processing with random synony
 - `Spinner.py`: Contains the `Spinner` class that handles synonym replacement.
 - `SpinFile.py`: The main script that reads the essay, processes it using `Spinner`, and saves the results.
 - `essay.txt`: Input text to be spun.
-- `synonyms-simplified.txt`: Synonym dictionary file (format: word:syn1,syn2,...).
 - `test-synonyms.txt`: Smaller version for quick testing.
 - `results.txt`: Output file where the original and modified versions are saved.
 
