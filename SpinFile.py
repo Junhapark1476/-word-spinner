@@ -9,8 +9,8 @@ from Spinner import Spinner
 def clean_text(text):
     print("Cleaning text...")  # Debug message
     text = text.lower()  # Convert to lowercase
-    for ch in string.punctuation:
-        text = text.replace(ch, '')  # Remove punctuation
+    for i in string.punctuation:
+        text = text.replace(i, '')  # Remove punctuation
     return text
 
 # Main function to read input, process it, and generate variations
